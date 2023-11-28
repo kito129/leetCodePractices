@@ -1,3 +1,8 @@
+# Date: 2023/11/28
+# Time: 3:20
+# Difficulty: Easy
+# Link: https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+
 class Solution:
 
     def order(self, list_to_order: list[int], len: int) -> None:
